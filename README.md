@@ -7,6 +7,29 @@ events). It looks like the almanac in WebCockpit, the browser client.
 
 <img src="lock-screen.png" alt="The lock screen" width="270">
 
+## In the app
+
+The app shows the same almanac (**NOW**) and two more views:
+
+<table>
+<tr>
+<td width="50%" valign="top"><img src="plan.png" alt="PLAN" width="270"></td>
+<td width="50%" valign="top"><img src="lore.png" alt="LORE" width="270"></td>
+</tr>
+<tr>
+<td valign="top"><b>PLAN</b>: a calendar of real days, coloured by the
+game's season. Under it, the chosen day as a 24-hour timeline: the
+season, the full moon and each event's windows. Tap an event to mark
+its days in the calendar and list that day's times. Swipe the calendar
+to change month.</td>
+<td valign="top"><b>LORE</b>: every event and the condition it waits
+for (moonrise, night, winter …). Tap one for its place and note. Add
+your own, edit or mute the bundled ones, and share them with friends
+as a line of text (the same <code>ALM1:</code> format as WebCockpit's
+almanac).</td>
+</tr>
+</table>
+
 This repository holds only the releases. The app is a personal hobby
 project, free to use, with no warranty.
 
