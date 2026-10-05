@@ -78,8 +78,7 @@ update the app for you.
 
 The app reads MUME's public status table (MSSP) at `mume.org:4242`: no
 login, no commands, about two short connections a day per phone, plus
-a few more on the very first start to find the exact minute. Please
-keep it that way: be a good MUME citizen.
+a few more on the very first start to find the exact minute.
 
 ## Fonts
 
