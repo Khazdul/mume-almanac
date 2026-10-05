@@ -5,7 +5,7 @@ the game date and minute, the moon, daylight, the seasons of the year,
 and what is coming up (the moon rising, shops opening, seasonal
 events). It looks like the almanac in WebCockpit, the browser client.
 
-![The lock screen](lock-screen.png)
+<img src="lock-screen.png" alt="The lock screen" width="270">
 
 This repository holds only the releases. The app is a personal hobby
 project, free to use, with no warranty.
